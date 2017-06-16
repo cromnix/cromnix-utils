@@ -1,0 +1,4 @@
+These tools are designed to help in everyday usage of cromnix.
+
+remove-orphans:
+	This tool will remove orphaned packages left over in the system.
